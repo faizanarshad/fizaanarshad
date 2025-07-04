@@ -10,10 +10,10 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-6dd5ed?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-2193b0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Twitter-43e97b?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://kaggle.com/YOUR-KAGGLE"><img src="https://img.shields.io/badge/Kaggle-0e153a?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="mailto:faizanarshad124@gmail.com"><img src="https://img.shields.io/badge/Email-6dd5ed?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/muhammad-faizan-arshad-a1b466121"><img src="https://img.shields.io/badge/LinkedIn-2193b0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/Faizaan_Arshad"><img src="https://img.shields.io/badge/Twitter-43e97b?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://kaggle.com/faizanarshed"><img src="https://img.shields.io/badge/Kaggle-0e153a?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="https://github.com/faizanarshad"><img src="https://img.shields.io/badge/GitHub-22223b?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
